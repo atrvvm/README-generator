@@ -32,9 +32,13 @@ THEN I am taken to the corresponding section of the README
 ## Command-Line Visuals:
 ![image](https://github.com/user-attachments/assets/9bfdc5c9-2305-4b61-af42-c8841bdfeba5)
 
+## Demo:
+![demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ba178b6c-50ad-4eea-bde8-4e883f690c2f)
+
+
 ## Sources
-```md
-All of the work was completed on my own but I want to awkknowledge external sources & references that helped me to get to the final product.
+All of the work was completed on my own but I want to awkknowledge external sources & references that were used in the process.
+<br/>
 StackOverflow
 Connie Tran GitHub Repo: https://github.com/connietran-dev/readme-generator
-```
+
