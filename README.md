@@ -39,6 +39,6 @@ THEN I am taken to the corresponding section of the README
 ## Sources
 All of the work was completed on my own but I want to awkknowledge external sources & references that were used in the process.
 <br/>
-StackOverflow
+StackOverflow <br/>
 Connie Tran GitHub Repo: https://github.com/connietran-dev/readme-generator
 
