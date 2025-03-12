@@ -1,37 +1,37 @@
 
   # Project Title
-  TITLE
-  ![License](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+  AWESOME PROJECT
+  ![License](https://img.shields.io/badge/license-GNU-brightgreen)<br />
 
   # Table of Contents 
-  * [Description](#-Description)
-  * [Installation](#-Installation)
-  * [Usage](#-Usage)
-  * [License](#-License)
-  * [Contributing](#-Contributing)
-  * [Tests](#-Tests)
-  * [Questions](#-Questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
       
   # Description
-  PROJECT DESCRIPTION
+  This project is a full-stack application designed to enhance user experience by integrating modern web technologies.
   
   # Installation
-  INSTRUCTIONS
+  1. Clone the repository\n2. Run `npm install` to install dependencies\n3. Start the application with `npm start`.
   
   # Usage
-  USAGE GUIDELINES
+  This application is used to manage user interactions efficiently with an intuitive UI and robust backend.
   
   # License 
-  This application is covered by the MIT license.  
+  This application is covered by the GNU license.  
 
   # Contributing 
-  CONTRIBUTE
+  We welcome contributions! Fork the repo, make your changes, and submit a pull request
   
   # Tests
-  TESTING INSTRUCTIONS
+  Run `npm test` to execute unit tests and verify the functionality of the application.
   
   # Questions
-  * GitHub Username: USERNAME
-  * Contact Email: TEST@GMAIL.COM
+  * GitHub Username: username
+  * Contact Email: test@email.com
   
   
