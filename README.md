@@ -32,7 +32,7 @@ THEN I am taken to the corresponding section of the README
 ## Command-Line Visuals:
 ![image](https://github.com/user-attachments/assets/9bfdc5c9-2305-4b61-af42-c8841bdfeba5)
 
-## Demo:
+## Walkthrough Demo: [Link to File](https://drive.google.com/file/d/1_eVzn-NTmTBKN3TlD2GKB5MtgpYemfTX/view?usp=drive_link)
 ![demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ba178b6c-50ad-4eea-bde8-4e883f690c2f)
 
 
